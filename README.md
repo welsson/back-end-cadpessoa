@@ -1,4 +1,4 @@
-# Back-end-cadpessoa
+# Cadastro de pessoa
 API Back end de cadastro de pessoas
 
 Configure o projeto como MAVEN
